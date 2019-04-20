@@ -1,15 +1,15 @@
 {
-  "main.css": "/abc/static/css/main.bdb189a8.chunk.css",
-  "main.js": "/abc/static/js/main.4bc8a083.chunk.js",
-  "main.js.map": "/abc/static/js/main.4bc8a083.chunk.js.map",
-  "runtime~main.js": "/abc/static/js/runtime~main.fd52d28e.js",
-  "runtime~main.js.map": "/abc/static/js/runtime~main.fd52d28e.js.map",
-  "static/css/2.2558b312.chunk.css": "/abc/static/css/2.2558b312.chunk.css",
-  "static/js/2.98e69586.chunk.js": "/abc/static/js/2.98e69586.chunk.js",
-  "static/js/2.98e69586.chunk.js.map": "/abc/static/js/2.98e69586.chunk.js.map",
-  "index.html": "/abc/index.html",
-  "precache-manifest.b6fea054a26dabf8c3fbb1ca9adb1279.js": "/abc/precache-manifest.b6fea054a26dabf8c3fbb1ca9adb1279.js",
-  "service-worker.js": "/abc/service-worker.js",
-  "static/css/2.2558b312.chunk.css.map": "/abc/static/css/2.2558b312.chunk.css.map",
-  "static/css/main.bdb189a8.chunk.css.map": "/abc/static/css/main.bdb189a8.chunk.css.map"
+  "main.css": "/ecom/static/css/main.bdb189a8.chunk.css",
+  "main.js": "/ecom/static/js/main.415231a9.chunk.js",
+  "main.js.map": "/ecom/static/js/main.415231a9.chunk.js.map",
+  "runtime~main.js": "/ecom/static/js/runtime~main.a345f0af.js",
+  "runtime~main.js.map": "/ecom/static/js/runtime~main.a345f0af.js.map",
+  "static/css/2.2558b312.chunk.css": "/ecom/static/css/2.2558b312.chunk.css",
+  "static/js/2.8e3b7bbf.chunk.js": "/ecom/static/js/2.8e3b7bbf.chunk.js",
+  "static/js/2.8e3b7bbf.chunk.js.map": "/ecom/static/js/2.8e3b7bbf.chunk.js.map",
+  "index.html": "/ecom/index.html",
+  "precache-manifest.e4828a6b9b9ca8e3ef32eaa10f725963.js": "/ecom/precache-manifest.e4828a6b9b9ca8e3ef32eaa10f725963.js",
+  "service-worker.js": "/ecom/service-worker.js",
+  "static/css/2.2558b312.chunk.css.map": "/ecom/static/css/2.2558b312.chunk.css.map",
+  "static/css/main.bdb189a8.chunk.css.map": "/ecom/static/css/main.bdb189a8.chunk.css.map"
 }
